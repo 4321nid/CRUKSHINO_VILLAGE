@@ -1192,7 +1192,7 @@ img.genplan-img.active2 {
 }
 
 .main {
-  background-image: url(/img/main_bg.png);
+  background-image: url('../img/main_bg.png');
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
